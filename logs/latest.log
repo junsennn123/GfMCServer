@@ -1,57 +1,56 @@
-[20:42:54] [ServerMain/INFO]: Building unoptimized datafixer
-[20:42:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:42:57] [ServerMain/INFO]: Loaded 7 recipes
-[20:42:58] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[20:42:58] [Server thread/INFO]: Loading properties
-[20:42:58] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:58] [Server thread/INFO]: Generating keypair
-[20:42:58] [Server thread/INFO]: Starting Minecraft server on 192.168.1.71:25565
-[20:42:58] [Server thread/INFO]: Using default channel type
-[20:42:59] [Server thread/INFO]: This server is running CraftBukkit version 3580-Bukkit-5901d58 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
-[20:42:59] [Server thread/INFO]: Preparing level "new world"
-[20:43:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:43:03] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:43:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:04] [Worker-Main-5/INFO]: Preparing spawn area: 21%
-[20:43:05] [Worker-Main-7/INFO]: Preparing spawn area: 68%
-[20:43:05] [Server thread/INFO]: Time elapsed: 5214 ms
-[20:43:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:43:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:43:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:43:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:43:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[20:43:08] [Worker-Main-6/INFO]: Preparing spawn area: 20%
-[20:43:08] [Server thread/INFO]: Time elapsed: 2968 ms
-[20:43:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:43:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:43:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:43:10] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[20:43:10] [Server thread/INFO]: Time elapsed: 2085 ms
-[20:43:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:43:10] [Server thread/INFO]: Done (11.377s)! For help, type "help"
-[20:49:16] [User Authenticator #1/INFO]: UUID of player Junsennn is 3bdc3be4-513b-4370-a69f-eb0f6ded8362
-[20:49:18] [Server thread/INFO]: Junsennn joined the game
-[20:49:18] [Server thread/INFO]: Junsennn[/192.168.1.86:62566] logged in with entity id 113 at ([new world]848.698238891189, 63.0, -175.35043817811808)
-[20:49:32] [Server thread/INFO]: Junsennn lost connection: Disconnected
-[20:49:32] [Server thread/INFO]: Junsennn left the game
-[20:49:37] [Server thread/INFO]: Stopping the server
-[20:49:37] [Server thread/INFO]: Stopping server
-[20:49:37] [Server thread/INFO]: Saving players
-[20:49:37] [Server thread/INFO]: Saving worlds
-[20:49:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world]'/minecraft:overworld
-[20:49:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_nether]'/minecraft:the_nether
-[20:49:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_the_end]'/minecraft:the_end
-[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (new world): All chunks are saved
-[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:49:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:53:09] [ServerMain/INFO]: Building unoptimized datafixer
+[20:53:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:53:12] [ServerMain/INFO]: Loaded 7 recipes
+[20:53:13] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[20:53:13] [Server thread/INFO]: Loading properties
+[20:53:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:13] [Server thread/INFO]: Generating keypair
+[20:53:13] [Server thread/INFO]: Starting Minecraft server on 192.168.1.71:25565
+[20:53:13] [Server thread/INFO]: Using default channel type
+[20:53:14] [Server thread/INFO]: This server is running CraftBukkit version 3580-Bukkit-5901d58 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[20:53:14] [Server thread/INFO]: Preparing level "new world"
+[20:53:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:53:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:19] [Worker-Main-3/INFO]: Preparing spawn area: 38%
+[20:53:20] [Server thread/INFO]: Time elapsed: 4982 ms
+[20:53:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:53:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:53:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:53:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:53:22] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:22] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[20:53:23] [Server thread/INFO]: Time elapsed: 2993 ms
+[20:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:53:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:53:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:53:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:53:25] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[20:53:25] [Server thread/INFO]: Time elapsed: 2144 ms
+[20:53:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:53:25] [Server thread/INFO]: Done (11.264s)! For help, type "help"
+[20:55:06] [User Authenticator #1/INFO]: UUID of player Junsennn is 3bdc3be4-513b-4370-a69f-eb0f6ded8362
+[20:55:07] [Server thread/INFO]: Junsennn joined the game
+[20:55:07] [Server thread/INFO]: Junsennn[/192.168.1.86:61823] logged in with entity id 108 at ([new world]859.2810329060804, 63.0, -163.4751674958766)
+[21:07:10] [Server thread/INFO]: Junsennn lost connection: Disconnected
+[21:07:10] [Server thread/INFO]: Junsennn left the game
+[21:07:23] [Server thread/INFO]: Stopping the server
+[21:07:23] [Server thread/INFO]: Stopping server
+[21:07:23] [Server thread/INFO]: Saving players
+[21:07:23] [Server thread/INFO]: Saving worlds
+[21:07:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world]'/minecraft:overworld
+[21:07:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_nether]'/minecraft:the_nether
+[21:07:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_the_end]'/minecraft:the_end
+[21:07:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (new world): All chunks are saved
+[21:07:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:07:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:07:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
