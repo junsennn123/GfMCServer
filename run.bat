@@ -6,5 +6,4 @@ git commit -m "Updated server files"
 
 git push
 
-
 pause
