@@ -1,95 +1,80 @@
-[21:38:29] [ServerMain/INFO]: Building unoptimized datafixer
-[21:38:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:38:32] [ServerMain/INFO]: Loaded 7 recipes
-[21:38:33] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[21:38:33] [Server thread/INFO]: Loading properties
-[21:38:33] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:33] [Server thread/INFO]: Generating keypair
-[21:38:34] [Server thread/INFO]: Starting Minecraft server on 192.168.1.71:25565
-[21:38:34] [Server thread/INFO]: Using default channel type
-[21:38:34] [Server thread/INFO]: This server is running CraftBukkit version 3580-Bukkit-5901d58 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
-[21:38:34] [Server thread/INFO]: Preparing level "new world"
-[21:38:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:38:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:38:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:38:41] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[21:38:41] [Worker-Main-5/INFO]: Preparing spawn area: 65%
-[21:38:41] [Server thread/INFO]: Time elapsed: 5679 ms
-[21:38:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:38:44] [Worker-Main-4/INFO]: Preparing spawn area: 22%
-[21:38:45] [Server thread/INFO]: Time elapsed: 3500 ms
-[21:38:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:38:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[21:38:46] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:38:47] [Worker-Main-3/INFO]: Preparing spawn area: 27%
-[21:38:47] [Server thread/INFO]: Time elapsed: 2374 ms
-[21:38:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:38:47] [Server thread/INFO]: Done (13.010s)! For help, type "help"
-[21:39:50] [User Authenticator #1/INFO]: UUID of player Junsennn is 3bdc3be4-513b-4370-a69f-eb0f6ded8362
-[21:39:51] [Server thread/INFO]: Junsennn joined the game
-[21:39:51] [Server thread/INFO]: Junsennn[/192.168.1.86:63772] logged in with entity id 110 at ([new world]868.4175921307432, 63.0, -177.17339459417556)
-[21:41:18] [User Authenticator #2/INFO]: UUID of player joodieeee is fdb2a0d5-3a04-4af1-aa38-ca225e149dd0
-[21:41:18] [Server thread/INFO]: joodieeee joined the game
-[21:41:18] [Server thread/INFO]: joodieeee[/116.15.172.60:61398] logged in with entity id 643 at ([new world]872.1865663494173, 63.0, -186.01970311204943)
-[21:44:37] [Server thread/INFO]: Junsennn issued server command: /tp Junsennn joodieeee
-[21:44:37] [Server thread/INFO]: [Junsennn: Teleported Junsennn to joodieeee]
-[21:56:48] [Server thread/INFO]: joodieeee has made the advancement [Best Friends Forever]
-[22:02:48] [Server thread/INFO]: joodieeee issued server command: /gamemode survival
-[22:02:48] [Server thread/INFO]: [joodieeee: Set own game mode to Survival Mode]
-[22:03:27] [Server thread/INFO]: joodieeee issued server command: /time set day
-[22:03:27] [Server thread/INFO]: [joodieeee: Set the time to 1000]
-[22:03:33] [Server thread/INFO]: joodieeee issued server command: /weather clear
-[22:03:33] [Server thread/INFO]: [joodieeee: Set the weather to clear]
-[22:04:25] [Server thread/INFO]: Junsennn issued server command: /gamemode creative joodieeee
-[22:04:25] [Server thread/INFO]: [Junsennn: Set joodieeee's game mode to Creative Mode]
-[22:04:27] [Server thread/INFO]: joodieeee issued server command: /gamemode creative
-[22:08:39] [Server thread/INFO]: joodieeee issued server command: /weather clear
-[22:08:39] [Server thread/INFO]: [joodieeee: Set the weather to clear]
-[22:09:50] [Server thread/INFO]: Junsennn issued server command: /tp Junsennn joodieeee
-[22:09:50] [Server thread/INFO]: [Junsennn: Teleported Junsennn to joodieeee]
-[22:14:45] [Server thread/INFO]: joodieeee issued server command: /time set day
-[22:14:45] [Server thread/INFO]: [joodieeee: Set the time to 1000]
-[22:14:50] [Server thread/INFO]: joodieeee issued server command: /weather clear
-[22:14:50] [Server thread/INFO]: [joodieeee: Set the weather to clear]
-[22:23:11] [Server thread/INFO]: joodieeee issued server command: /time set day
-[22:23:11] [Server thread/INFO]: [joodieeee: Set the time to 1000]
-[22:23:17] [Server thread/INFO]: joodieeee issued server command: /weather clear
-[22:23:17] [Server thread/INFO]: [joodieeee: Set the weather to clear]
-[22:29:46] [Server thread/INFO]: joodieeee issued server command: /weather clear
-[22:29:46] [Server thread/INFO]: [joodieeee: Set the weather to clear]
-[22:31:43] [Server thread/INFO]: Named entity EntityChicken['KFC'/255, l='ServerLevel[new world]', x=829.90, y=63.00, z=-171.18] died: KFC was slain by Goat
-[22:36:00] [Server thread/INFO]: Junsennn issued server command: /tp Junsennn joodieeee
-[22:36:00] [Server thread/INFO]: [Junsennn: Teleported Junsennn to joodieeee]
-[22:36:00] [Server thread/WARN]: Junsennn moved too quickly! -49.07997418446712,-19.149067646058334,59.412724046272785
-[22:40:27] [Server thread/INFO]: joodieeee has made the advancement [Monster Hunter]
-[23:15:28] [Server thread/INFO]: joodieeee lost connection: Disconnected
-[23:15:28] [Server thread/INFO]: joodieeee left the game
-[23:15:30] [Server thread/INFO]: Junsennn lost connection: Disconnected
-[23:15:30] [Server thread/INFO]: Junsennn left the game
-[23:19:15] [Server thread/INFO]: Stopping the server
-[23:19:15] [Server thread/INFO]: Stopping server
-[23:19:15] [Server thread/INFO]: Saving players
-[23:19:15] [Server thread/INFO]: Saving worlds
-[23:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world]'/minecraft:overworld
-[23:19:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_nether]'/minecraft:the_nether
-[23:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_the_end]'/minecraft:the_end
-[23:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (new world): All chunks are saved
-[23:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:20:14] [ServerMain/INFO]: Building unoptimized datafixer
+[21:20:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:20:18] [ServerMain/INFO]: Loaded 7 recipes
+[21:20:19] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[21:20:19] [Server thread/INFO]: Loading properties
+[21:20:19] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:19] [Server thread/INFO]: Generating keypair
+[21:20:19] [Server thread/INFO]: Starting Minecraft server on 192.168.1.71:25565
+[21:20:19] [Server thread/INFO]: Using default channel type
+[21:20:20] [Server thread/INFO]: This server is running CraftBukkit version 3580-Bukkit-5901d58 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[21:20:20] [Server thread/INFO]: Preparing level "new world"
+[21:20:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:20:27] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[21:20:27] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[21:20:28] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[21:20:28] [Server thread/INFO]: Time elapsed: 6592 ms
+[21:20:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:20:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:20:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:20:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:20:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:20:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:20:31] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[21:20:31] [Worker-Main-1/INFO]: Preparing spawn area: 96%
+[21:20:31] [Server thread/INFO]: Time elapsed: 3535 ms
+[21:20:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:20:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:20:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:20:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[21:20:34] [Server thread/INFO]: Time elapsed: 2481 ms
+[21:20:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:20:34] [Server thread/INFO]: Done (13.810s)! For help, type "help"
+[21:28:21] [User Authenticator #1/INFO]: UUID of player joodieeee is fdb2a0d5-3a04-4af1-aa38-ca225e149dd0
+[21:28:23] [Server thread/INFO]: joodieeee joined the game
+[21:28:23] [Server thread/INFO]: joodieeee[/219.75.34.52:50904] logged in with entity id 105 at ([new world]848.8416899907459, 63.0, -169.59810639012008)
+[21:31:55] [User Authenticator #2/INFO]: UUID of player Junsennn is 3bdc3be4-513b-4370-a69f-eb0f6ded8362
+[21:31:55] [Server thread/INFO]: Junsennn joined the game
+[21:31:55] [Server thread/INFO]: Junsennn[/192.168.1.86:63232] logged in with entity id 1352 at ([new world]850.504741945454, 63.0, -172.0198417889596)
+[21:36:47] [Server thread/INFO]: Junsennn issued server command: /tp Junsennn joodieeee
+[21:36:47] [Server thread/INFO]: [Junsennn: Teleported Junsennn to joodieeee]
+[21:49:17] [Server thread/INFO]: Junsennn has made the advancement [Cover Me with Diamonds]
+[21:49:54] [Server thread/INFO]: Junsennn has completed the challenge [Cover Me in Debris]
+[21:51:27] [Server thread/INFO]: joodieeee lost connection: Disconnected
+[21:51:27] [Server thread/INFO]: joodieeee left the game
+[21:51:36] [User Authenticator #3/INFO]: UUID of player joodieeee is fdb2a0d5-3a04-4af1-aa38-ca225e149dd0
+[21:51:36] [Server thread/INFO]: joodieeee joined the game
+[21:51:36] [Server thread/INFO]: joodieeee[/219.75.34.52:16041] logged in with entity id 5202 at ([new world]866.7971837747724, 70.40251642641725, -191.5119885928686)
+[21:51:41] [Server thread/INFO]: Junsennn has made the advancement [Suit Up]
+[22:06:09] [Server thread/INFO]: joodieeee has made the advancement [Cover Me with Diamonds]
+[22:10:09] [Server thread/INFO]: Junsennn issued server command: /time set night
+[22:10:09] [Server thread/INFO]: [Junsennn: Set the time to 13000]
+[22:14:21] [Server thread/INFO]: joodieeee lost connection: Disconnected
+[22:14:21] [Server thread/INFO]: joodieeee left the game
+[22:14:35] [Server thread/INFO]: Junsennn lost connection: Disconnected
+[22:14:35] [Server thread/INFO]: Junsennn left the game
+[22:14:57] [Server thread/INFO]: Stopping the server
+[22:14:57] [Server thread/INFO]: Stopping server
+[22:14:57] [Server thread/INFO]: Saving players
+[22:14:57] [Server thread/INFO]: Saving worlds
+[22:14:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world]'/minecraft:overworld
+[22:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_nether]'/minecraft:the_nether
+[22:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[new world_the_end]'/minecraft:the_end
+[22:15:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (new world): All chunks are saved
+[22:15:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:15:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:15:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
