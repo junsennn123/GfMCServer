@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-09-21 22:35:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2022-09-05 22:12:05 +0800",
@@ -421,6 +427,7 @@
       "minecraft:beach": "2022-09-05 22:12:02 +0800",
       "minecraft:river": "2022-09-05 22:12:03 +0800",
       "minecraft:cold_ocean": "2022-09-05 22:15:10 +0800",
+      "minecraft:lush_caves": "2022-09-21 22:21:26 +0800",
       "minecraft:frozen_ocean": "2022-09-05 22:15:11 +0800",
       "minecraft:windswept_forest": "2022-09-05 22:09:31 +0800",
       "minecraft:old_growth_spruce_taiga": "2022-09-05 22:12:15 +0800",
@@ -437,6 +444,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-09-05 22:36:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-09-21 22:25:03 +0800"
     },
     "done": true
   },
